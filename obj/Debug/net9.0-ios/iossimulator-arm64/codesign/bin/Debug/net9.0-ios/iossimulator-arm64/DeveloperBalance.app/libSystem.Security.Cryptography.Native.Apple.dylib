@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/bin/Debug/net9.0-ios/iossimulator-arm64/DeveloperBalance.app/libSystem.Security.Cryptography.Native.Apple.dylib

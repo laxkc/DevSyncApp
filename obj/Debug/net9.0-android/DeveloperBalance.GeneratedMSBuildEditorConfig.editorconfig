@@ -1,0 +1,110 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DeveloperBalance
+build_property.ProjectDir = /Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/Controls/AddButton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.Controls.AddButton.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Controls/AddButton.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Controls/AddButton.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/Controls/CategoryChart.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.Controls.CategoryChart.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Controls/CategoryChart.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Controls/CategoryChart.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/Controls/ProjectCardView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.Controls.ProjectCardView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Controls/ProjectCardView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Controls/ProjectCardView.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/Controls/TagView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.Controls.TagView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Controls/TagView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Controls/TagView.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/Controls/TaskView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.Controls.TaskView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Controls/TaskView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Controls/TaskView.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/MainPage.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/ManageMetaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.ManageMetaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/ManageMetaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/ManageMetaPage.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/ProjectDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/ProjectDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/ProjectDetailPage.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/ProjectListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.ProjectListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/ProjectListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/ProjectListPage.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Pages/TaskDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Pages.TaskDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/TaskDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/TaskDetailPage.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Resources/Styles/AppStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Resources.Styles.AppStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/AppStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/AppStyles.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DeveloperBalance.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

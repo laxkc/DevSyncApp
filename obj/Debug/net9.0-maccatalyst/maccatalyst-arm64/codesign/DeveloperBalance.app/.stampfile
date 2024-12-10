@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/laxmankc/capstone/maui-samples/9.0/Apps/DeveloperBalance/DeveloperBalance/bin/Debug/net9.0-maccatalyst/maccatalyst-arm64/DeveloperBalance.app
