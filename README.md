@@ -35,10 +35,10 @@ Technologies Used
 
 Screenshots
 -----------
+![1](https://github.com/user-attachments/assets/e5c4c6dc-d79d-48a8-be2a-6f35b5748834)
 
-_The Developer Balance Dashboard showing an overview of your activity and time distribution._
 
-_Task management interface where you can add, edit, and track your tasks._
+![2](https://github.com/user-attachments/assets/9ca0e8bb-4383-4e85-bcc9-9a3da51ad640)
 
 Installation
 ------------
