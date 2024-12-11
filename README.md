@@ -85,5 +85,5 @@ Code Structure
 
 - **Laxman KC A00298022** (Team Leader) 
 - **Raj Yadav A00290323**
-- **Bishesh Basnet**
-- **Anmol Singh**
+- **Bishesh Basnet A002980322**
+- **Anmol Singh A00298749**
