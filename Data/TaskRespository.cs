@@ -18,7 +18,7 @@ public class TaskRepository
 	/// <param name="logger">The logger instance.</param>
 	public TaskRepository(ILogger<TaskRepository> logger)
 	{
-		_logger = logger;
+		_logger = logger; 
 	}
 
 	/// <summary>
